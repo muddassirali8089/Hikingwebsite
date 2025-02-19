@@ -1,0 +1,1801 @@
+
+@font-face {
+    font-family: 'Bitter-Regular';
+    src: url(fonts/Bitter-Regular.otf);
+}
+
+@font-face {
+    font-family: 'Bitter-bold';
+    src: url(fonts/Bitter-Bold.otf);
+}
+@font-face {
+    font-family: 'majc';
+    src: url(fonts/majc.ttf);
+}
+  body {
+    font-family: 'Bitter-regular';
+    box-sizing: border-box;
+  }
+  .logo-one{
+    width: 285px;
+    height: 85px;
+
+}
+.navbar-nav{
+    margin-left: 20px;
+   padding-left: 0px !important;
+   margin-top: 12px;
+}
+.nav-link{
+    padding-left: 50px !important;
+    font-size: 16px;
+    font-weight: 700;
+    color: white !important;
+   
+}
+.nav-link:hover {
+    color: #ffc107; /* change the link color on hover */
+    text-decoration: none; /* remove the underline */
+  }
+.first-bg{
+    background-image: url(images/80.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 900px;
+    background-position: center -85px;
+    object-fit: cover;
+    background-size: cover;  
+ 
+}
+
+  
+  .paragrap-one {
+    margin-top: 20px; /* add some top margin */
+  }  
+.first-heading{
+    color: white;
+    font-family: 'Bitter-bold';
+    font-weight: 700;
+    font-size: 40px;
+}
+.first-headings{
+    color: white;
+    font-family: 'Bitter-Regular';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.first-two{
+    color: white;
+    font-family: 'Bitter-bold';
+    font-weight: 700;
+}
+
+
+.paragrap-slash{
+    width: 30%;
+    padding-right: 50px;
+    
+}
+.paragrap-one{
+    font-size: 16px;
+    line-height: 25px;
+    color: white;
+    font-weight: 500;
+    font-family: 'Bitter-Regular';
+    letter-spacing: 1px;
+   padding-right: 27px;
+  }
+.first-heading2{
+    font-family: 'Bitter-bold';
+    font-weight: 700;
+    font-size: 30px;
+}
+.classes-one{
+    font-family: 'Bitter-Regular';
+    font-weight: 500;
+    font-size: 25px;
+    color: aqua;
+}
+.line-one{
+    width: 100px !important;
+    height: 4px;
+    background-color: #32cece !important;
+    content: '';
+}
+.activites{
+    font-size: 28px;
+font-weight: 600;
+
+font-family: 'Bitter-bold';
+
+letter-spacing: 1px;
+}
+.second-paragrap{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Bitter-Regular';
+    padding: 14px;
+   
+}
+.goal-images{
+    width: 50%;
+    height: auto;
+}
+.first-three{
+    padding-top: 212px !important;
+    color: aqua;
+}
+.line-two{
+    width: 350px !important;
+    height: 2px;
+    background-color: #32cece !important;
+    content: '';
+}
+.images-secondgoal{
+  max-width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    margin-top: -50px;
+    object-fit: cover;
+}
+.rock-climbing{
+    font-size: 40px;
+    font-weight: 700;
+    color: #1d1a1a;
+    font-family: 'Bitter-bold';
+}
+.heading-classes{
+    font-size: 20px;
+    font-weight: 600;
+    color: #1d1a1a;
+    font-family: 'Bitter-bold';
+}
+.paragrap-hetha{
+    font-size: 17px;
+    line-height: 30px;
+
+      color: rgb(34, 32, 32);
+      font-weight: 700;
+      font-family: bitter;
+      padding-right: 88px;
+     letter-spacing: 1px;
+}
+.heading-modules{
+    font-size: 20px;
+    font-weight: 600;
+    color: #474343;
+    font-family: 'Bitter-Regular';
+    margin-top: 10px;
+
+}
+.heading-Start{
+    font-size: 19px;
+    
+    color: #1d1a1a;
+    font-family: 'Bitter-bold';
+    font-weight: 700;
+    margin-top: 10px;
+
+}
+.heading-Start2{
+    font-size: 20px;
+    
+color: white;
+font-family: 'Bitter-bold';
+   
+    margin-top: 10px;
+
+}
+.paragrap-walking{
+    font-size: 32px;
+    line-height: 30px;
+   color: rgb(236, 73, 14);
+    font-weight: 700;
+    font-family:  'majc';
+    padding-right: 219px;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.classes-four{
+    padding-top: 270px !important;
+    color: rgb(228, 85, 33);
+    font-size: 16px !important;
+    text-align: center;
+    font-weight: 600;
+    
+}
+.natioal-park{
+    margin-top: 80px !important;
+}
+.second-image{
+    background-image: linear-gradient(rgba(66, 47, 173, 0.5), rgba(78, 30, 189, 0.5)), url(images/8.png);
+    background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: center;
+object-fit: cover;
+background-size: cover;
+}
+.big-bend{
+color: white;
+font-size: 30px;
+font-weight: 600;
+margin-top: 25px;
+font-family: 'Bitter-bold';
+}
+.next-best{
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+     font-family: 'Bitter-bold';
+    margin-top: 12px;
+}
+.light-but{
+    border: 2px solid rgb(0, 38, 255);
+    padding: 10px 80px;
+    background: transparent;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.recover-from{
+    font-size: 40px;
+    font-weight: 700;
+    color: #1d1a1a;
+    font-family: 'Bitter-bold';
+    margin-top: 18px;
+}
+.orange{
+    color: orangered;
+}
+.a-hike{
+    width: 80px !important;
+height: 5px;
+background-color: #32cece !important;
+content: '';
+}
+.three-images{
+    width: 80%;
+}
+.consectetur-text{
+    font-size: 30px !important;
+    line-height: 30px;
+
+      color: rgb(43, 40, 40);
+      font-weight: 700;
+      font-family: bitter;
+     
+     letter-spacing: 1px;
+}
+.sixty-six{
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  object-fit: cover;
+  
+}
+.make-sure{
+    font-size: 33px;
+    font-family:  'majc';
+    color: aqua;
+
+}
+.paragrap-walking2{
+    font-size: 34px;
+    line-height: 40px;
+   color: orangered;
+    font-weight: 700;
+    font-family:  'majc';
+    padding-right: 245px;
+    letter-spacing: 1px;
+    padding-top: 30px;
+    
+
+    }
+
+    .paragrap-walking3{
+        font-size: 34px;
+        line-height: 40px;
+       color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family:  'majc';
+        padding-right: 245px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+        
+    
+        }
+  .section-seven{
+    background-image: url(images/40.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    object-fit: cover;
+
+   
+    
+  }
+  .paragrap-two{
+    color: white;
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    font-family: 'Bitter-regular';
+    
+  }
+  .places-visit{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 5px;
+    color: rgb(4, 4, 58);
+    font-family: 'Bitter-bold';
+    line-height: 39px;
+  }
+  .radius-images {
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+  }
+ 
+  .mountain {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    padding-top: 5px;
+    font-family: 'Bitter-bold';
+    letter-spacing: 1px;
+    padding-top: 20px;
+  }
+  .paragrap-three {
+    font-size: 19px;
+    font-weight: 700;
+    font-family: 'Bitter-regular';
+margin-top: -43px;
+  }
+  .ul-second{
+    padding-left: 2rem;
+font-size: 11px;
+color: aqua;
+  }
+  .hr-one{
+    margin: 19px 47px;
+  }
+  .second-button3 {
+    
+    border: 1px solid aqua!important;
+    
+    padding: 5px 50px 5px !important;
+    justify-content: flex-end !important;
+    font-size: 18px !important;
+    color: rgb(80, 76, 76) !important;
+   
+    font-weight: 600 !important;
+    background: transparent;
+  }
+  .second-button4 {
+    
+    border: 1px solid aqua!important;
+    
+    padding: 5px 50px 5px !important;
+    justify-content: flex-end !important;
+    font-size: 18px !important;
+  color: white !important;
+   
+    font-weight: 600 !important;
+    background: transparent;
+  }
+  .Location{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(75, 70, 70);
+    font-family: 'Bitter-bold';
+  }
+  .english-idol{
+    border-radius: 50% !important;
+width: 80%;
+object-fit: cover;
+  }
+  .discover5 {
+    font-size: 30px;
+    font-weight: 700;
+  color: white;
+  font-family: 'Bitter-bold';
+    line-height: 44px;
+    padding-top: 7px;
+    padding-left: 1px;
+  }
+  .bg-english{
+    background-color: rgb(47, 47, 70);
+  }
+  .empty-line{
+    width: 450px !important;
+    height: 1px;
+    background-color: #6932ce !important;
+    content: '';
+  }
+  .paragrap-hetha2{
+    font-size: 17px;
+    line-height: 30px;
+
+   color: white;
+      font-weight: 700;
+      font-family: bitter;
+      padding-right: 251px;
+     letter-spacing: 1px; 
+  }
+  .heading-modules2{
+    font-size: 20px;
+    font-weight: 600;
+   color: white;  
+   font-family: 'Bitter-regular';
+    margin-top: 10px;
+
+}
+.keep-healthy{
+  background-image: linear-gradient(rgba(23, 5, 128, 0.5), rgba(39, 8, 112, 0.5)), url(images/8.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+
+
+   
+}
+.paragrap2{
+    font-size: 26px;
+color: white;
+padding: 84px 330px;
+
+font-weight: 600;
+letter-spacing: 1px;
+padding-bottom: 5px;
+font-family:  'majc';
+
+
+}
+.about-menu {
+    color: #9E9DA2;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 13px;
+    font-family: bebas neue;
+  }
+  .last-paragrap {
+    font-size: 18px;
+    font-weight: 600;
+    color: #3d364b;
+    padding-top: 15px;
+    font-family: sans-serif;
+  }
+  .six-href {
+    color: #9E9DA2;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-top: 5px;
+  }
+  .six-href2 {
+    
+   
+    text-decoration: none;
+
+  }
+  .classes-four2 {
+    padding-top: -30px !important;
+    color: rgb(228, 85, 33);
+    font-size: 16px !important;
+    font-weight: 600;
+  
+  
+  }
+  .navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.55);
+  }
+
+
+  /* started media queries from here */
+ 
+  @media (min-width: 320px) and (max-width: 575px){
+
+    .sixty-six {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      object-fit: cover;
+    
+      padding: 10px;
+    }
+    .footer-menu{
+        width: 33.33% !important;
+    }
+    .one-bott{
+      padding-top: 20px !important;
+    }
+    .consectetur-text3 {
+text-align: center;
+    }
+    .first-heading2 {
+      font-family: 'Bitter-bold';
+      font-weight: 700;
+      font-size: 23px;
+      
+
+      }
+    .paragrap-hetha {
+      font-size: 17px;
+      line-height: 30px;
+      color: rgb(34, 32, 32);
+      font-weight: 700;
+      font-family: bitter;
+      padding-right: 37px;
+      letter-spacing: 1px;
+    }
+    .consectetur-text {
+      font-size: 30px !important;
+      line-height: 30px;
+      color: rgb(43, 40, 40);
+      font-weight: 700;
+      font-family: bitter;
+      letter-spacing: 1px;
+      padding-right: 10px !important;
+      text-align: center;
+    }
+   
+    .logo-one {
+        width: 199px;
+        height: 85px;
+      }
+      .big-bend {
+        color: white;
+        font-size: 22px;
+        font-weight: 600;
+        margin-top: 25px;
+        font-family: 'Bitter-bold';
+      }
+      .next-best {
+        color: white;
+        font-size: 17px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        margin-top: 12px;
+      }
+      .light-but {
+        border: 2px solid rgb(0, 38, 255);
+        padding: 2px 37px;
+        background: transparent;
+        color: white;
+        font-weight: 700;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+      }
+      .section-seven {
+        background-image: url(images/40.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 548px;
+        object-fit: cover;
+      
+
+      }
+    .classes-four {
+        padding-top: 0px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        text-align: center;
+        font-weight: 600;
+      
+      }
+      .classes-four2 {
+        padding-top: -30px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        font-weight: 600;
+        padding-left: 366px !important;
+      }
+      .first-bg {
+        background-image: url(images/80.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 517px;
+        background-position: center -85px;
+      }
+    .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 84px 46px;
+          padding-bottom: 84px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .paragrap-walking2 {
+        font-size: 25px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 200px;
+        letter-spacing: 1px;
+        padding-top: 8px;
+      }
+      .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 56px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 119px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+    
+      .nav-link {
+        padding-left: 1px !important;
+        font-size: 16px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-walking {
+        font-size: 25px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 105px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 30px;
+      }
+      
+ 
+      
+     
+      .recover-from {
+        font-size: 29px;
+        font-weight: 700;
+        color: #1d1a1a;
+        font-family: 'Bitter-bold';
+        margin-top: 18px;
+      }
+      .classes-one{
+        font-family: 'Bitter-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        color: aqua;
+       
+    }
+    .first-heading {
+        color: rgb(245, 241, 241);
+        font-family: 'Bitter-bold';
+        font-weight: 700;
+        font-size: 30px;
+      
+  } 
+  .first-two {
+    color: rgb(252, 247, 247);
+    font-family: 'Bitter-bold';
+    font-weight: 700;
+  }
+  .first-headings {
+    color: rgb(252, 246, 246);
+    font-family: 'Bitter-Regular';
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 1px;
+  
+  
+
+  }
+  
+  .paragrap-one {
+    font-size: 16px;
+    line-height: 25px;
+    color: rgb(245, 240, 240);
+    font-weight: 600;
+    font-family: 'Bitter-Regular';
+    letter-spacing: 1px;
+    padding-right: 10px;
+  
+  }
+  .paragrap-slash {
+    width: 100%;
+  
+  }
+
+  }
+  @media (min-width: 576px) and (max-width: 667px){
+    .classes-four2 {
+        padding-top: -30px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        font-weight: 600;
+        padding-left: 450px !important;
+      
+      }
+      .sixty-six {
+        width: 220px;
+        height: 220px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+    .big-bend {
+        color: white;
+        font-size: 22px;
+        font-weight: 600;
+        margin-top: 25px;
+        font-family: 'Bitter-bold';
+      }
+      .next-best {
+        color: white;
+        font-size: 17px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        margin-top: 12px;
+      }
+      .light-but {
+        border: 2px solid rgb(0, 38, 255);
+        padding: 2px 37px;
+        background: transparent;
+        color: white;
+        font-weight: 700;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+      }
+    .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .first-heading {
+        color: white;
+        font-family: 'Bitter-bold';
+        font-weight: 700;
+        font-size: 26px;
+      }
+      .nav-link {
+        padding-left: 1px !important;
+        font-size: 16px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-slash {
+        width: 30%;
+        padding-right: 0px;
+      }
+      .classes-four {
+        padding-top: 348px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        text-align: center;
+        font-weight: 600;
+      }
+      .logo-one {
+        width: 201px;
+        height: 78px;
+      }
+     
+      .paragrap-one {
+        font-size: 12px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 10px;
+      }
+   
+      .activites {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 1px;
+      }
+   
+      .paragrap-walking {
+        font-size: 26px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 65px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 73px;
+      }
+      .paragrap-hetha {
+        font-size: 17px;
+        line-height: 30px;
+        color: rgb(34, 32, 32);
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 50px;
+        letter-spacing: 1px;
+      }
+    
+     
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 79px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .make-sure {
+        font-size: 26px;
+        font-family: 'majc';
+        color: aqua;
+      }
+      .paragrap-two {
+        color: white;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+        font-family: 'Bitter-regular';
+      }
+     
+      .paragrap-three {
+        font-size: 27px;
+        font-weight: 700;
+        font-family: 'Bitter-regular';
+        margin-top: -43px;
+      }
+    
+      .hr-one {
+        margin: 19px 10px;
+      }
+      .second-button3 {
+        border: 1px solid aqua !important;
+        padding: 4px 33px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 11px !important;
+        color: rgb(80, 76, 76) !important;
+        font-weight: 700;
+        background: transparent;
+          background-color: transparent;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 61px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 71px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .consectetur-text {
+        font-size: 30px !important;
+        line-height: 30px;
+        color: rgb(43, 40, 40);
+        font-weight: 700;
+        font-family: bitter;
+        letter-spacing: 1px;
+        padding-right: 10px !important;
+     
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 101px 64px;
+          padding-bottom: 101px;
+        padding-bottom: 101px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+        padding: 5px 31px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+      .classes-one{
+        font-family: 'Bitter-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        color: aqua;
+        display: ;
+    }
+  } 
+  @media (min-width: 668px) and (max-width: 720px){
+    .sixty-six {
+      width: 278px;
+      height: 278px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .first-heading {
+        color: white;
+        font-family: 'Bitter-bold';
+        font-weight: 700;
+        font-size: 26px;
+      }
+      .paragrap-slash {
+        width: 30%;
+        padding-right: 0px;
+      }
+      
+      .logo-one {
+        width: 201px;
+        height: 78px;
+      }
+      .nav-link {
+        padding-left: 29px !important;
+        font-size: 14px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-one {
+        font-size: 12px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 10px;
+      }
+      
+      .activites {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 1px;
+      }
+      
+      .paragrap-walking {
+        font-size: 26px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 65px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 73px;
+      }
+      .paragrap-hetha {
+        font-size: 17px;
+        line-height: 30px;
+        color: rgb(34, 32, 32);
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 50px;
+        letter-spacing: 1px;
+      }
+   
+      .classes-four {
+        padding-top: -85px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        text-align: center;
+        font-weight: 600;
+      }
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 79px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .make-sure {
+        font-size: 24px;
+        font-family: 'majc';
+        color: aqua;
+      }
+      .paragrap-two {
+        color: white;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+        font-family: 'Bitter-regular';
+      }
+      
+      .paragrap-three {
+        font-size: 27px;
+        font-weight: 700;
+        font-family: 'Bitter-regular';
+        margin-top: -43px;
+      }
+      .hr-one {
+        margin: 19px 10px;
+      }
+      .second-button3 {
+        border: 1px solid aqua !important;
+        padding: 4px 33px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 11px !important;
+        color: rgb(80, 76, 76) !important;
+        font-weight: 700;
+        background: transparent;
+          background-color: transparent;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 61px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 71px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .consectetur-text {
+        font-size: 30px !important;
+        line-height: 30px;
+        color: rgb(43, 40, 40);
+        font-weight: 700;
+        font-family: bitter;
+        letter-spacing: 1px;
+        padding-right: 10px !important;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 101px 64px;
+          padding-bottom: 101px;
+        padding-bottom: 101px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+        padding: 5px 31px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+      .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .classes-one{
+        font-family: 'Bitter-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        color: aqua;
+        display: none;
+    }
+  } 
+  @media (min-width: 721px) and (max-width: 800px){
+    .logo-one {
+        width: 201px;
+        height: 78px;
+      }
+      .paragrap-slash {
+        width: 50%;
+        
+      }
+      .sixty-six {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+      .nav-link {
+        padding-left: 29px !important;
+        font-size: 14px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-one {
+        font-size: 12px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 10px;
+      }
+     
+      .activites {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 1px;
+      }
+     
+      .paragrap-walking {
+        font-size: 26px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 65px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 73px;
+      }
+      .paragrap-hetha {
+        font-size: 17px;
+        line-height: 30px;
+        color: rgb(34, 32, 32);
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 50px;
+        letter-spacing: 1px;
+      }
+ 
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 79px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-two {
+        color: white;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+        font-family: 'Bitter-regular';
+      }
+      
+      
+      .paragrap-three {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Bitter-regular';
+        margin-top: -43px;
+      }
+      .hr-one {
+        margin: 19px 10px;
+      }
+      .second-button3 {
+        border: 1px solid aqua !important;
+        padding: 4px 33px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 11px !important;
+        color: rgb(80, 76, 76) !important;
+        font-weight: 700;
+        background: transparent;
+          background-color: transparent;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 61px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 71px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .consectetur-text {
+        font-size: 30px !important;
+        line-height: 30px;
+        color: rgb(43, 40, 40);
+        font-weight: 700;
+        font-family: bitter;
+        letter-spacing: 1px;
+        padding-right: 10px !important;
+      }
+      .make-sure {
+        font-size: 23px;
+        font-family: 'majc';
+        color: aqua;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 101px 53px;
+          padding-bottom: 101px;
+        padding-bottom: 101px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+        padding: 5px 31px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+      .empty-line {
+        width: 345px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+     
+      .classes-four {
+        padding-top: 270px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        text-align: center;
+        font-weight: 600;
+      }
+  } 
+  @media (min-width: 801px) and (max-width: 870px){
+    .sixty-six {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    .logo-one {
+        width: 201px;
+        height: 78px;
+      }
+      .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .nav-link {
+        padding-left: 29px !important;
+        font-size: 14px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-one {
+        font-size: 12px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 10px;
+      }
+  
+      .activites {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 1px;
+      }
+     
+      .paragrap-walking {
+        font-size: 26px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 65px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 73px;
+      }
+      .paragrap-hetha {
+        font-size: 17px;
+        line-height: 30px;
+        color: rgb(34, 32, 32);
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 50px;
+        letter-spacing: 1px;
+      }
+     
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 79px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-two {
+        color: white;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+        font-family: 'Bitter-regular';
+      }
+    
+      .paragrap-three {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Bitter-regular';
+        margin-top: -43px;
+      }
+      .hr-one {
+        margin: 19px 10px;
+      }
+      .second-button3 {
+        border: 1px solid aqua !important;
+        padding: 4px 33px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 11px !important;
+        color: rgb(80, 76, 76) !important;
+        font-weight: 700;
+        background: transparent;
+          background-color: transparent;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 61px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 71px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .consectetur-text {
+        font-size: 30px !important;
+        line-height: 30px;
+        color: rgb(43, 40, 40);
+        font-weight: 700;
+        font-family: bitter;
+        letter-spacing: 1px;
+        padding-right: 10px !important;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 101px 124px;
+          padding-bottom: 101px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+        padding: 5px 31px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+  } 
+  @media (min-width: 871px) and (max-width: 951px){
+    .sixty-six {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    .logo-one {
+        width: 201px;
+        height: 78px;
+      }
+      .empty-line {
+        width: 382px !important;
+        height: 1px;
+        background-color: #6932ce !important;
+        content: '';
+      }
+      .nav-link {
+        padding-left: 29px !important;
+        font-size: 14px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .paragrap-one {
+        font-size: 12px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 10px;
+      }
+   
+      .activites {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 1px;
+      }
+      .images-secondgoal {
+        width: 68%;
+        height: 50%;
+        border-radius: 100%;
+        margin-top: 5px;
+        text-align: center;
+      }
+      .paragrap-walking {
+        font-size: 26px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 65px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 73px;
+      }
+      .paragrap-hetha {
+        font-size: 17px;
+        line-height: 30px;
+        color: rgb(34, 32, 32);
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 50px;
+        letter-spacing: 1px;
+      }
+    
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 79px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-two {
+        color: white;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+        font-family: 'Bitter-regular';
+      }
+     
+      .paragrap-three {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Bitter-regular';
+        margin-top: -43px;
+      }
+      .hr-one {
+        margin: 19px 10px;
+      }
+      .second-button3 {
+        border: 1px solid aqua !important;
+        padding: 4px 33px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 11px !important;
+        color: rgb(80, 76, 76) !important;
+        font-weight: 700;
+        background: transparent;
+          background-color: transparent;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 61px;
+        letter-spacing: 1px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 71px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .consectetur-text {
+        font-size: 30px !important;
+        line-height: 30px;
+        color: rgb(43, 40, 40);
+        font-weight: 700;
+        font-family: bitter;
+        letter-spacing: 1px;
+        padding-right: 10px !important;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 101px 124px;
+          padding-bottom: 101px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+        padding: 5px 31px 5px !important;
+        justify-content: flex-end !important;
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+  } 
+  @media (min-width: 952px) and (max-width: 1000px){
+    .nav-link {
+        padding-left: 25px !important;
+        font-size: 12px;
+        font-weight: 700;
+        color: white !important;
+      }
+      .sixty-six {
+        width: 280px;
+        height: 280px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+      .activites {
+        font-size: 21px;
+        font-weight: 600;
+        font-family: 'Bitter-bold';
+        letter-spacing: 1px;
+      }
+      .paragrap-one {
+        font-size: 13px;
+        line-height: 25px;
+        color: white;
+        font-weight: 500;
+        font-family: 'Bitter-Regular';
+        letter-spacing: 1px;
+        padding-right: 2px;
+      }
+      .second-paragrap {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Bitter-Regular';
+        padding: 14px;
+      }
+    
+      .paragrap-walking {
+        font-size: 32px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 165px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 30px;
+      }
+      .classes-four {
+        padding-top: 187px !important;
+        color: rgb(228, 85, 33);
+        font-size: 16px !important;
+        text-align: center;
+        font-weight: 600;
+      }
+      .heading-Start {
+        font-size: 14px;
+        color: #1d1a1a;
+        font-family: 'Bitter-bold';
+        font-weight: 700;
+        margin-top: 10px;
+      }
+     
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 190px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 182px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-hetha2 {
+        font-size: 17px;
+        line-height: 30px;
+        color: white;
+        font-weight: 700;
+        font-family: bitter;
+        padding-right: 103px;
+        letter-spacing: 1px;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 84px 156px;
+          padding-bottom: 84px;
+        padding-bottom: 84px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+      .second-button4 {
+        border: 1px solid aqua !important;
+     padding: 1px 26px !important;
+  
+        font-size: 18px !important;
+        color: white !important;
+        font-weight: 600 !important;
+        background: transparent;
+          background-color: transparent;
+      }
+  } 
+  @media (min-width: 1001px) and (max-width: 1100px){
+    .sixty-six {
+      width: 330px;
+      height: 330px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+      .paragrap-walking {
+        font-size: 32px;
+        line-height: 30px;
+        color: rgb(236, 73, 14);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 171px;
+        letter-spacing: 1px;
+        padding-top: 15px;
+        padding-left: 30px;
+      }
+      .heading-Start {
+        font-size: 14px;
+        color: #1d1a1a;
+        font-family: 'Bitter-bold';
+        font-weight: 700;
+        margin-top: 10px;
+      }
+      
+      .paragrap-walking2 {
+        font-size: 34px;
+        line-height: 40px;
+        color: orangered;
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 203px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap-walking3 {
+        font-size: 34px;
+        line-height: 40px;
+        color: rgb(0, 183, 255);
+        font-weight: 700;
+        font-family: 'majc';
+        padding-right: 190px;
+        letter-spacing: 1px;
+        padding-top: 30px;
+      }
+      .paragrap2 {
+        font-size: 26px;
+        color: white;
+        padding: 84px 266px;
+          padding-bottom: 84px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+        font-family: 'majc';
+      }
+  } 
+  @media (min-width: 1101px) and (max-width: 1200px){
+    .sixty-six {
+      width: 340px;
+      height: 340px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  } 
+  @media (min-width: 1201px) and (max-width: 1300px){
+    
+  } 
